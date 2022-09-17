@@ -10,5 +10,6 @@ namespace GameProjectDemo.Abstract
     public interface IGamerCheckService
     {
         bool CheckIfRealPerson(Gamer gamer);
+
     }
 }

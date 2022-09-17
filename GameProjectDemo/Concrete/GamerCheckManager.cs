@@ -13,7 +13,7 @@ namespace GameProjectDemo.Concrete
         //Fake
         public bool CheckIfRealPerson(Gamer gamer)
         {
-            return false;
+            return true;
         }
     }
 }
